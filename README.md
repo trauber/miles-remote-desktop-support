@@ -1,2 +1,3 @@
 # miles-remote-desktop-support
-Documentation of the setup and other helpful info.
+
+I'm documenting some of the set up as I progress through Miles Technologies' *Remote Desktop Support* course.
